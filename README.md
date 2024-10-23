@@ -1,3 +1,9 @@
+This is an attempt to reproduce the task mentioned in the original warehouse paper.
+
+The original repository readme is as follows.
+
+---
+
 # Short-Term Plasticity Neurons Learning to Learn and Forget
 _This open source project is not an official Huawei product. Huawei is not expected to provide support for this project._
 
