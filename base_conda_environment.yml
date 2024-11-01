@@ -321,7 +321,7 @@ dependencies:
   - python-slugify=5.0.2=pyhd3eb1b0_0
   - python_abi=3.9=2_cp39
   - pytorch=1.10.2=py3.9_cuda11.1_cudnn8.0.5_0
-  - pytorch-mutex=1.0=cpu
+  - pytorch-mutex=1.0=cuda
   - pytz=2021.3=pyhd3eb1b0_0
   - pyu2f=0.1.5=pyhd8ed1ab_0
   - pywavelets=1.1.1=py39h6323ea4_4
@@ -443,4 +443,4 @@ dependencies:
 #    - torch==1.10.2+cu111
 #    - torchaudio==0.10.2+cu111
 #    - torchvision==0.11.3+cu111
-prefix: /home/username/anaconda3/envs/baseSTPN
+prefix: /home/xxx/anaconda3/envs/baseSTPN
