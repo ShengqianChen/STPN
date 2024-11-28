@@ -5,7 +5,7 @@
     "optimizer": "Adam",
     "loss_function": "CrossEntropyLoss",
     "optimizer_args": {"lr": 0.001},
-    "train_convergence": true,
+    "train_convergence": true,  
     "convergence_args": {
       "max_epochs": 200,
       "tolerance": 200,

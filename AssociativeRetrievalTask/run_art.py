@@ -5,6 +5,9 @@ import os
 import numpy as np
 import torch
 
+import sys
+sys.path.append('/home/xxx')
+
 from STPN.Scripts.STPLayers import (
     STPNr, CustomLSTMCell, FastWeights, CustomRNNCell, STPNF, CustomMiconiNetwork, HebbFF
 )

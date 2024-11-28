@@ -3,9 +3,12 @@ import math
 from typing import Optional, Tuple
 
 import torch
+import sys
+sys.path.append('/home/xxx')
 
 from STPN.AssociativeRetrievalTask.data_art import load_data
 from STPN.Scripts.utils import DATA
+
 
 
 class STPNR(torch.nn.Module):
